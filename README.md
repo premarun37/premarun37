@@ -9,7 +9,7 @@
 ## 🛠️ Skills
 - **HDL:** Verilog, SystemVerilog  
 - **VLSI Concepts:** Digital VLSI, ASIC Design Flow, Static Timing Analysis  
-- **Tools:** Xilinx Vivado, LTSpice, EDA Playground, OpenLane, Magic VLSI, Proteus  
+- **Tools:** Cadence, Xilinx Vivado, LTSpice, EDA Playground, OpenLane, Magic VLSI, Proteus  
 - **Programming:** C, Embedded C  
 - **Hardware:** Arduino, ESP32, Basys 3 FPGA Board  
 
