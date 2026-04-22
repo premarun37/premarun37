@@ -32,6 +32,9 @@
 - 🔗 **[Wireless Pick and Place Robotic Arm](https://github.com/premarun37/wireless-pick-and-place-robotic-arm.git)**  
   Built a wireless embedded-system-based robotic arm for object manipulation.
 
+- 🔗 **[Li-Fi Audio Transmission System](https://github.com/premarun37/lifi-audio-transmission.git)**  
+  Developed a visible light communication system to transmit audio signals wirelessly using LEDs and photodiodes.
+
 - 🔗 **[Automatic Gate Control for Smart Parking System](https://github.com/premarun37/automatic-gate-control-for-smart-parking-system.git)**  
   Designed a sensor-based automated gate system for smart parking.
 
@@ -52,4 +55,4 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: premarun375@gmail.com  
+- 📧 Email: premarun37.mit@gmail.com  
