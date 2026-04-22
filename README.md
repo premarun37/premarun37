@@ -38,7 +38,7 @@
 - 🔗 **[Automatic Gate Control for Smart Parking System](https://github.com/premarun37/automatic-gate-control-for-smart-parking-system.git)**  
   Designed a sensor-based automated gate system for smart parking.
 
-- 🔗 **[Traffic Sign Detection Using MATLAB](https://github.com/premarun37/traffic-sign-detection-using-matlab.git)**  
+- 🔗 **[Traffic Sign Detection](https://github.com/premarun37/traffic-sign-detection-using-matlab.git)**  
   Developed an image processing system to detect and classify traffic signs.
 
 ---
