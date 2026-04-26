@@ -18,8 +18,8 @@
 ## 📌 Projects
 
 - 🔗 **[Power Optimization Using Adiabatic Switching for High-Speed Adder](https://github.com/premarun37/power-optimization-using-adiabatic-switching-for-high-speed-adder.git)**  
-  Designed a low-power 16-bit adder using PFAL adiabatic logic for reduced energy consumption.- 🔗 **[Regenerative Latch
-
+  Designed a low-power 16-bit adder using PFAL adiabatic logic for reduced energy consumption.
+  
 - 🔗 **[Regenerative Latch Comparator for ADC](https://github.com/premarun37/regenerative-latch-comparator-for-adc.git)**  
   Designed a high-speed regenerative latch comparator for ADC applications, focusing on low power and fast decision-making.
 
