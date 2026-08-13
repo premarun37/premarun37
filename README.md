@@ -24,9 +24,6 @@
 - 🔗 **[MIPS32 Single Cycle Datapath](https://github.com/premarun37/mips32-single-cycle-datapath.git)**  
   Implemented a MIPS32 single-cycle processor datapath with complete instruction execution and control logic.
 
-- 🔗 **[UART Controller](https://github.com/premarun37/uart-controller.git)**  
-  Designed a configurable Universal Asynchronous Receiver-Transmitter (UART) protocol module for serial communication.
-
 ---
 
 ### ⚡ Low-Power VLSI & Circuit Design
@@ -41,6 +38,9 @@
 ### ⚙️ ASIC Implementation, PD & Verification
 - 🔗 **[Physical Design of APB–GPIO Interface](https://github.com/premarun37/pd-apb-gpio.git)**  
   Executed physical design flow (floorplanning, placement, CTS, routing) for an AMBA APB-to-GPIO peripheral module.
+
+- 🔗 **[Physical Design of UART Controller](https://github.com/premarun37/uart-controller.git)**  
+  Executed complete physical design flow (synthesis, floorplanning, placement, CTS, routing) for a configurable UART protocol module.
 
 - 🔗 **[Design and Verification of APB–GPIO Interface](https://github.com/premarun37/design-and-verification-of-APB-to-GPIO-interface-using-SystemVerilog.git)**  
   Developed an AMBA APB-compliant GPIO module alongside a SystemVerilog testbench for functional verification.
