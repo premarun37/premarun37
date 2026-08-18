@@ -2,7 +2,7 @@
 
 🎓 **Electronics & Communication Engineering Student**  
 🔬 **Aspiring VLSI Engineer**  
-💡 Strong interest in VLSI design flow, low-power circuits, and processor architecture  
+💡 Strong interest in VLSI design flow, processor architecture and low-power circuits.   
 
 ---
 
